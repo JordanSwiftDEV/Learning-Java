@@ -13,7 +13,7 @@ public class Test {
 		
 		System.out.println(Math.pow(5, 3)); //5 to the power of 3
 		
-		System.out.println(Math.sqrt(9)); //Square root of 3
+		System.out.println(Math.sqrt(9)); //Square root of 9
 	}
 
 }
